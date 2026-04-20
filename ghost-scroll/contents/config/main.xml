@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="iconPath0" type="String"><default></default></entry>
+    <entry name="iconPath1" type="String"><default></default></entry>
+    <entry name="iconPath2" type="String"><default></default></entry>
+    <entry name="iconPath3" type="String"><default></default></entry>
+    <entry name="iconPath4" type="String"><default></default></entry>
+
+    <entry name="command0" type="String"><default></default></entry>
+    <entry name="command1" type="String"><default></default></entry>
+    <entry name="command2" type="String"><default></default></entry>
+    <entry name="command3" type="String"><default></default></entry>
+    <entry name="command4" type="String"><default></default></entry>
+
+    <entry name="label0" type="String"><default></default></entry>
+    <entry name="label1" type="String"><default></default></entry>
+    <entry name="label2" type="String"><default></default></entry>
+    <entry name="label3" type="String"><default></default></entry>
+    <entry name="label4" type="String"><default></default></entry>
+
+    <entry name="idleOpacity" type="Int"><default>8</default></entry>
+    <entry name="iconSize"    type="Int"><default>48</default></entry>
+    <entry name="slotCount"   type="Int"><default>3</default></entry>
+  </group>
+</kcfg>
