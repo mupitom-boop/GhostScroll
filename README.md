@@ -33,7 +33,7 @@ Right-click on it to show settings.
 ========================================================================================
 
 Because of how plasma's QML works, you cannot run direct commands or bash scripts 
-via this plasmoid's shortcuts.
+via this plasmoid's shortcuts. THIS IS A SAFETY FEATURE.
 
 However, you can still open non-executable files on your computer, as long as your 
 system knows what to do.
